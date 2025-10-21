@@ -21,7 +21,7 @@ Currently a Master’s student, I’m constantly exploring new ways to leverage 
 ## 📊 Skills & Tech Stack  
 Excel | Power BI | Python | SQL | Data Visualization | Presentation  
 Python libraries: Pandas · NumPy · Matplotlib · Plotly  
-Databases & Querying: SQL (MySQL / PostgreSQL)  
+Databases & Querying: SQL (MySQL)  
 Communication & Presentation: Creating compelling narratives from data
 
 ---
