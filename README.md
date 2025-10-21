@@ -26,6 +26,10 @@ Communication & Presentation: Creating compelling narratives from data
 
 ---
 
+## 💼 Domain   
+Business | Finance | Software | Quick Commerce
+
+---
 ## 📂 Featured Project  
 **BMW Sales Analysis (2010-2024)**  
 * Tools used: Power BI · Python · Excel  
